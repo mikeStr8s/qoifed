@@ -1,0 +1,27 @@
+{
+  "name": "qoifed",
+  "version": "0.0.1",
+  "description": "QOI format encoder/decoder",
+  "type": "module",
+  "exports": "./src/index.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeStr8s/qoifed.git"
+  },
+  "keywords": [
+    "qoi",
+    "qoif",
+    "encoder",
+    "decoder"
+  ],
+  "author": "Michael Strating <michaelhstrating@gmail.com> (http://www.michaelstrating.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeStr8s/qoifed/issues"
+  },
+  "homepage": "https://github.com/mikeStr8s/qoifed#readme"
+}
